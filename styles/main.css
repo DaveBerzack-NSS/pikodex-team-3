@@ -1,16 +1,24 @@
+.bodyStyle {
+  background-image: url("https://images.unsplash.com/flagged/photo-1593005510329-8a4035a7238f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8eWVsbG93fGVufDB8fDB8fHwy&auto=format&fit=crop&w=500&q=60");
+}
+
 #title {
-    text-align: center;
-    font-family: copperplate;
-    font-size: 5em;
-    margin-top: 1rem;
+  text-align: center;
+  font-family: "Pokemon Solid", copperplate;
+  font-weight: lighter;
+  color: rgb(237, 43, 4);
+  font-size: 5em;
+  margin-top: 1rem;
+  src: url("https://fonts.cdnfonts.com/css/pokemon-solid");
+
 }
 
 #container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 2rem;
-    margin-bottom: 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
 }
 
 .piko-card {
@@ -23,32 +31,29 @@
 }
 
 .piko-img {
-    width: 100%;
-    border-radius: 1em;
+  width: 100%;
+  border-radius: 1em;
 }
 
 .piko-info {
-    padding-left: 1.25rem;
+  padding-left: 1.25rem;
 }
 
 .info-text {
-    font-family: monospace;
-    font-size: 1rem;
+  font-family: monospace;
+  font-size: 1rem;
 }
 
 .piko-name {
-    font-family: "copperplate", fantasy;
-    font-size: 1.5em;
+  font-family: "copperplate", fantasy;
+  font-size: 1.5em;
 }
 
 .piko-abilities {
-
 }
 
 .piko-category {
-
 }
 
 .piko-weakness {
-
 }
