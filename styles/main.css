@@ -59,3 +59,11 @@
 
 .piko-weakness {
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #0c0c0c;
+    color: #fff;
+}
