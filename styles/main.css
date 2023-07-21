@@ -10,17 +10,16 @@
   font-size: 5em;
   margin-top: 1rem;
   src: url("https://fonts.cdnfonts.com/css/pokemon-solid");
-
 }
 
 #container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 2rem;
-    margin-bottom: 3rem;
-    text-shadow: 4px 4px blue;
-    color: aquamarine
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  text-shadow: 4px 4px blue;
+  color: aquamarine;
 }
 
 .piko-card {
@@ -62,9 +61,9 @@
 }
 
 footer {
-    display: flex;
-    justify-content: center;
-    padding: 5px;
-    background-color: #0c0c0c;
-    color: #fff;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color: #0c0c0c;
+  color: #fff;
 }

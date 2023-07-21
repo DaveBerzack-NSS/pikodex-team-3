@@ -14,7 +14,7 @@ for (const pikoman of pikomon) {
     <p class="piko-info">Category: ${pikoman.category}</p>
     <p class="piko-info">Abilities: ${pikoman.abilities}</p>
     <p class="piko-info">Weakness: ${pikoman.weakness}</p> 
-</section>`
+</section>`;
 }
 
 container.innerHTML = pikoCards;
