@@ -34,7 +34,11 @@
     border-color: black; 
     border-radius: 15px;
     padding: 20px;
+<<<<<<< HEAD
+    box-shadow: 10px 10px 5px goldenrod;
+=======
     background-color: orangered;
+>>>>>>> 82c0bc34083359329001237f6552d8a8f5b5d406
 }
 
 .piko-img {
