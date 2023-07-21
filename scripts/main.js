@@ -11,10 +11,10 @@ for (const pikoman of pikomon) {
   pikoCards += `<section class="piko-card">
     <img class="piko-img" src="${pikoman.imageUrl}"/>
     <h3>${pikoman.name}</h3>
-    <p class="piko-info">Category:${pikoman.category}</p>
-    <p class="piko-info">Abilities:${pikoman.abilities}</p>
-    <p class="piko-info">Weakness:${pikoman.weakness}</p> 
-</section>`;
+    <p class="piko-info">Category: ${pikoman.category}</p>
+    <p class="piko-info">Abilities: ${pikoman.abilities}</p>
+    <p class="piko-info">Weakness: ${pikoman.weakness}</p> 
+</section>`
 }
 
 container.innerHTML = pikoCards;
