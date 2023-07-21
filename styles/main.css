@@ -43,7 +43,10 @@
 }
 
 .piko-info {
+  padding: 1em;
   padding-left: 1.25rem;
+  border-style: inset;
+  color: aquamarine;
 }
 
 .info-text {
