@@ -16,6 +16,10 @@
 .piko-card {
     flex-basis: 25%;
     margin: 3em;
+    border-style: solid;
+    border-color: black; 
+    border-radius: 15px;
+    padding: 20px;
 }
 
 .piko-img {
