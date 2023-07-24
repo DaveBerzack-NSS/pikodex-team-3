@@ -46,6 +46,7 @@
   padding: 1em;
   padding-left: 1.25rem;
   border-style: inset;
+  border-color: rgba(255, 178, 150, 0.452);
   color: aquamarine;
 }
 
